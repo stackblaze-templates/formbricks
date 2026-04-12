@@ -1,0 +1,22 @@
+services:
+  formbricks:
+    image: ghcr.io/formbricks/formbricks:latest
+    ports:
+      - "3000:3000"
+    environment:
+      - DATABASE_URL=postgresql://formbricks:formbricks@db:5432/formbricks
+      - NEXTAUTH_SECRET=change-me
+      - ENCRYPTION_KEY=change-me-32-chars-long-string!!
+      - NEXTAUTH_URL=http://localhost:3000
+    depends_on:
+      - db
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_DB: formbricks
+      POSTGRES_USER: formbricks
+      POSTGRES_PASSWORD: formbricks
+    volumes:
+      - db_data:/var/lib/postgresql/data
+volumes:
+  db_data:
