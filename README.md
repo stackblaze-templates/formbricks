@@ -1,19 +1,12 @@
-# Formbricks
+<p align="center"><img src="logo.png" alt="formbricks" width="120"></p>
 
-<p align="center"><img src="logo.png" alt="Formbricks" width="120"></p>
-
-
-[![Maintained by StackBlaze](https://img.shields.io/badge/maintained%20by-StackBlaze-blue)](https://stackblaze.com)
-[![Weekly Updates](https://img.shields.io/badge/updates-weekly-green)](https://github.com/stackblaze-templates/formbricks/actions)
-[![License](https://img.shields.io/github/license/stackblaze-templates/formbricks)](LICENSE)
+# Formbricks [![Maintained by StackBlaze](https://img.shields.io/badge/maintained%20by-StackBlaze-blue)](https://stackblaze.com) [![Weekly Updates](https://img.shields.io/badge/updates-weekly-green)](https://github.com/stackblaze-templates/formbricks/actions) [![License](https://img.shields.io/github/license/stackblaze-templates/formbricks)](LICENSE) [![Deploy on StackBlaze](https://img.shields.io/badge/Deploy%20on-StackBlaze-orange)](https://stackblaze.com)
 
 An open-source survey and forms platform. In-app surveys, website popups, link surveys, and standalone forms.
 
 > **Credits**: Built on [Formbricks](https://formbricks.com) by [Formbricks](https://github.com/formbricks). All trademarks belong to their respective owners.
 
 ## Deploy on StackBlaze
-
-[![Deploy on StackBlaze](https://img.shields.io/badge/Deploy%20on-StackBlaze-orange)](https://stackblaze.com)
 
 This template includes a `stackblaze.yaml` for one-click deployment on [StackBlaze](https://stackblaze.com).
 
