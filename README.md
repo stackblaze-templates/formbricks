@@ -1,6 +1,6 @@
-<p align="center"><img src="logo.png" alt="formbricks" width="120"></p>
-
 # Formbricks [![Maintained by StackBlaze](https://img.shields.io/badge/maintained%20by-StackBlaze-blue)](https://stackblaze.com) [![Weekly Updates](https://img.shields.io/badge/updates-weekly-green)](https://github.com/stackblaze-templates/formbricks/actions) [![License](https://img.shields.io/github/license/stackblaze-templates/formbricks)](LICENSE) [![Deploy on StackBlaze](https://img.shields.io/badge/Deploy%20on-StackBlaze-orange)](https://stackblaze.com)
+
+<p align="center"><img src="logo.png" alt="formbricks" width="120"></p>
 
 An open-source survey and forms platform. In-app surveys, website popups, link surveys, and standalone forms.
 
